@@ -14,8 +14,14 @@ Given the data provided to us, we wanted to most accurate predict when and where
 
 ## Literature Review
 
-There are numerous scientific publications that discuss the tracking of mosquitos. We refer you to “Predicting Culex pipiens/restuans population dynamics by interval lagged weather data” by Karin Lebl Katharina Brugger, 1 and Franz Rubel1 (see https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3660179/) in the journal Parasites & Vectors. This paper influenced our choices of input variables, as it determined that the length of day was a key indicator of West Nile Virus carrying mosquitoes.
+There are numerous scientific publications that discuss the tracking of mosquitos. We refer you to “Predicting Culex pipiens/restuans population dynamics by interval lagged weather data” by Karin Lebl Katharina Brugger and Franz Rubel (see https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3660179/) in the journal Parasites & Vectors. This paper influenced our choices of input variables, as it determined that the length of day was a key indicator of West Nile Virus carrying mosquitoes.
 
 ## Hypothesis
 
 Mosquito populations will spike in high temperature and high humidity months. 
+
+## Team Resources
+
+[Our Trello board](https://trello.com/b/kkn08nWD/dsi-project-3)
+[Our presentation](https://docs.google.com/presentation/d/12PZ1b0zJkLy8v_qSKOsxOZLjgpTL98wxXLHzdqutTXY/edit#slide=id.g1bf247b079_0_783) 
+
